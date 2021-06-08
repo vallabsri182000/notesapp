@@ -10,7 +10,7 @@
     "note",
     "app"
   ],
-  "author": "sree vallab',
+  "author": "sree vallab",
   "license": "ISC",
   "dependencies": {
     "yargs": "^17.0.1"
