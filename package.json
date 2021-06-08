@@ -10,7 +10,7 @@
     "note",
     "app"
   ],
-  "author": "faiz patel",
+  "author": "sree vallab',
   "license": "ISC",
   "dependencies": {
     "yargs": "^17.0.1"
